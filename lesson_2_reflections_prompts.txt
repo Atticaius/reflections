@@ -1,0 +1,1 @@
+What happens when you initialize a repository? Why do you need to do it? It creates a .git and .gitignore folder. You need to do it so that you can commit
