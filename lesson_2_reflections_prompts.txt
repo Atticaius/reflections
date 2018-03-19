@@ -1,1 +1,3 @@
 What happens when you initialize a repository? Why do you need to do it? It creates a .git and .gitignore folder. You need to do it so that you can commit
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? It only keeps track of the files that you're going to commit, not the files themselves. It's valuable because you can keep track of what you're going to commit without actually deleting or creating files

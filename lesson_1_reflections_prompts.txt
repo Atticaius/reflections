@@ -10,5 +10,5 @@ How can you use the commands git log and git diff to view the history of files? 
 
 How might using version control make you more confident to make changes that could break something? You know that you can always revert your work back to a previous working condition.
 
-Now that you have your workspace set up, what do you want to try using Git for? For my own personal programs.
+Now that you have your workspace set up, what do you want to try using Git for? For my own personal programs
 
